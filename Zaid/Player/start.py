@@ -248,10 +248,10 @@ async def start(client: Client, message: Message):
             ],
             [
                 InlineKeyboardButton("✘ ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{GROUP_SUPPORT}"),
-                InlineKeyboardButton("✘ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"),
+                InlineKeyboardButton("✘ ᴏᴡɴᴇʀ", url=f"https://t.me/{OWNER_USERNAME}"),
             ],
             [
-                InlineKeyboardButton("✘ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://github.com/Itz-Zaid/Zaid-Vc-Player"),
+                InlineKeyboardButton("✘ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://github.com/skizzyyir/Zaid-Vc-Player"),
             ],
             [
                 InlineKeyboardButton("✘ ʜᴇʟᴘ ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅꜱ", callback_data="help"),
